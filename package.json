@@ -1,0 +1,14 @@
+{
+  "name": "Angular-Task-Tracker",
+  "version": "1.0.0",
+  "description": "Task Tracker",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Kelly Gipson",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
